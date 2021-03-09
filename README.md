@@ -51,3 +51,5 @@ An awesome list of tools available in 3d computer graphics for the research in c
 ## Dataset
 1. [SPARE3D: A Dataset for SPAtial REasoning on Three-View Line Drawings](https://ai4ce.github.io/SPARE3D/)
 2. [DIODE: A Dense Indoor and Outdoor DEpth Dataset](https://diode-dataset.org/)
+3. [ScanNet](https://github.com/ScanNet/ScanNet)
+ScanNet is an RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.
