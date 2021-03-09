@@ -53,4 +53,5 @@ An awesome list of tools available in 3d computer graphics for the research in c
 2. [DIODE: A Dense Indoor and Outdoor DEpth Dataset](https://diode-dataset.org/)
 3. [ScanNet](https://github.com/ScanNet/ScanNet)
 ScanNet is an RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.
-4. [ABC Dataset](https://deep-geometry.github.io/abc-dataset/) ABC Dataset A Big CAD Model Dataset For Geometric Deep Learning 
+4. [ABC Dataset](https://deep-geometry.github.io/abc-dataset/) A Big CAD Model Dataset For Geometric Deep Learning 
+5. [ShapeNet](https://shapenet.org/) A richly-annotated large-scale dataset of 3D shapes
