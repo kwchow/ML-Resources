@@ -56,3 +56,7 @@ ScanNet is an RGB-D video dataset containing 2.5 million views in more than 1500
 4. [ABC Dataset](https://deep-geometry.github.io/abc-dataset/) A Big CAD Model Dataset For Geometric Deep Learning 
 5. [ShapeNet](https://shapenet.org/) A richly-annotated large-scale dataset of 3D shapes
 6. [ScanObjectNN](https://hkust-vgd.github.io/scanobjectnn/) A New Benchmark Dataset and Classification Model on Real-World Data
+
+## Academia
+### Geometry
+1. [Shape Analysis](http://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html)
